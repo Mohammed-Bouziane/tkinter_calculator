@@ -1,4 +1,4 @@
-'''##                                       Calculatrice DD101 - 2022/2023                                   ##'''
+'''##                                                                                                   ##'''
 #!                                              By: Mohamed Bouziane
 
 
